@@ -1,0 +1,100 @@
+﻿Borough,StudentType,Result %
+City of London,EnglishNative,0
+Barking and Dagenham,EnglishNative,46
+Barnet,EnglishNative,57
+Bexley,EnglishNative,49
+Brent,EnglishNative,52
+Bromley,EnglishNative,50
+Camden,EnglishNative,46
+Croydon,EnglishNative,44
+Ealing,EnglishNative,52
+Enfield,EnglishNative,48
+Greenwich,EnglishNative,46
+Hackney,EnglishNative,49
+Hammersmith and Fulham,EnglishNative,54
+Haringey,EnglishNative,51
+Harrow,EnglishNative,53
+Havering,EnglishNative,47
+Hillingdon,EnglishNative,47
+Hounslow,EnglishNative,51
+Islington,EnglishNative,48
+Kensington and Chelsea,EnglishNative,53
+Kingston upon Thames,EnglishNative,58
+Lambeth,EnglishNative,43
+Lewisham,EnglishNative,45
+Merton,EnglishNative,50
+Newham,EnglishNative,48
+Redbridge,EnglishNative,53
+Richmond upon Thames,EnglishNative,56
+Southwark,EnglishNative,51
+Sutton,EnglishNative,56
+Tower Hamlets,EnglishNative,46
+Waltham Forest,EnglishNative,44
+Wandsworth,EnglishNative,51
+Westminster,EnglishNative,53
+City of London,NotEnglishNative,0
+Barking and Dagenham,NotEnglishNative,48
+Barnet,NotEnglishNative,56
+Bexley,NotEnglishNative,56
+Brent,NotEnglishNative,49
+Bromley,NotEnglishNative,59
+Camden,NotEnglishNative,51
+Croydon,NotEnglishNative,46
+Ealing,NotEnglishNative,50
+Enfield,NotEnglishNative,43
+Greenwich,NotEnglishNative,50
+Hackney,NotEnglishNative,50
+Hammersmith and Fulham,NotEnglishNative,57
+Haringey,NotEnglishNative,45
+Harrow,NotEnglishNative,51
+Havering,NotEnglishNative,52
+Hillingdon,NotEnglishNative,53
+Hounslow,NotEnglishNative,53
+Islington,NotEnglishNative,52
+Kensington and Chelsea,NotEnglishNative,55
+Kingston upon Thames,NotEnglishNative,58
+Lambeth,NotEnglishNative,47
+Lewisham,NotEnglishNative,44
+Merton,NotEnglishNative,55
+Newham,NotEnglishNative,53
+Redbridge,NotEnglishNative,55
+Richmond upon Thames,NotEnglishNative,58
+Southwark,NotEnglishNative,54
+Sutton,NotEnglishNative,67
+Tower Hamlets,NotEnglishNative,49
+Waltham Forest,NotEnglishNative,45
+Wandsworth,NotEnglishNative,53
+Westminster,NotEnglishNative,54
+City of London,PupilPremium,0
+Barking and Dagenham,PupilPremium,40
+Barnet,PupilPremium,47
+Bexley,PupilPremium,40
+Brent,PupilPremium,42
+Bromley,PupilPremium,37
+Camden,PupilPremium,42
+Croydon,PupilPremium,39
+Ealing,PupilPremium,42
+Enfield,PupilPremium,40
+Greenwich,PupilPremium,40
+Hackney,PupilPremium,42
+Hammersmith and Fulham,PupilPremium,43
+Haringey,PupilPremium,42
+Harrow,PupilPremium,38
+Havering,PupilPremium,38
+Hillingdon,PupilPremium,38
+Hounslow,PupilPremium,43
+Islington,PupilPremium,46
+Kensington and Chelsea,PupilPremium,48
+Kingston upon Thames,PupilPremium,43
+Lambeth,PupilPremium,43
+Lewisham,PupilPremium,37
+Merton,PupilPremium,41
+Newham,PupilPremium,47
+Redbridge,PupilPremium,44
+Richmond upon Thames,PupilPremium,42
+Southwark,PupilPremium,45
+Sutton,PupilPremium,43
+Tower Hamlets,PupilPremium,46
+Waltham Forest,PupilPremium,43
+Wandsworth,PupilPremium,42
+Westminster,PupilPremium,47
