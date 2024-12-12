@@ -1,0 +1,529 @@
+﻿Borough,Sector,2011 Numbers,2021 Numbers,2021 Percentage
+Barking and Dagenham,Primary & Utilities,700,800,1.38
+Barking and Dagenham,Manufacturing,7000,4500,7.76
+Barking and Dagenham,Construction,2500,4000,6.90
+Barking and Dagenham,Wholesale,4500,5000,8.62
+Barking and Dagenham,Retail,4000,6000,10.34
+Barking and Dagenham,Transportation and Storage,4000,6000,10.34
+Barking and Dagenham,Accomodation and food service activities,1750,3000,5.17
+Barking and Dagenham,Information and Communication,800,1000,1.72
+Barking and Dagenham,Financial and insurance activities,800,400,0.69
+Barking and Dagenham,"Professional, Real Estate, Scientific and technical activities",1750,3000,5.17
+Barking and Dagenham,Administrative and support service activities,5000,7000,12.07
+Barking and Dagenham,Public Admin and defence,3000,2500,4.31
+Barking and Dagenham,Education,5000,7000,12.07
+Barking and Dagenham,Health,4000,6000,10.34
+Barking and Dagenham,"Arts, entertainment and recreation",1500,900,1.55
+Barking and Dagenham,Other services,900,900,1.55
+Barnet,Primary & Utilities,500,600,0.45
+Barnet,Manufacturing,3000,2500,1.89
+Barnet,Construction,6000,8000,6.03
+Barnet,Wholesale,6000,6000,4.52
+Barnet,Retail,16000,17000,12.82
+Barnet,Transportation and Storage,3000,4000,3.02
+Barnet,Accomodation and food service activities,8000,9000,6.79
+Barnet,Information and Communication,5000,6000,4.52
+Barnet,Financial and insurance activities,2000,2500,1.89
+Barnet,"Professional, Real Estate, Scientific and technical activities",13000,18000,13.57
+Barnet,Administrative and support service activities,8000,11000,8.30
+Barnet,Public Admin and defence,6000,4000,3.02
+Barnet,Education,14000,15000,11.31
+Barnet,Health,16000,22000,16.59
+Barnet,"Arts, entertainment and recreation",3000,3000,2.26
+Barnet,Other services,3500,4000,3.02
+Bexley,Primary & Utilities,1750,1000,1.35
+Bexley,Manufacturing,5000,4500,6.09
+Bexley,Construction,4000,6000,8.11
+Bexley,Wholesale,5000,5000,6.76
+Bexley,Retail,8000,9000,12.17
+Bexley,Transportation and Storage,4000,5000,6.76
+Bexley,Accomodation and food service activities,3500,4500,6.09
+Bexley,Information and Communication,2000,2000,2.70
+Bexley,Financial and insurance activities,900,700,0.95
+Bexley,"Professional, Real Estate, Scientific and technical activities",3500,6000,8.11
+Bexley,Administrative and support service activities,7000,9000,12.17
+Bexley,Public Admin and defence,3000,3500,4.73
+Bexley,Education,7000,7000,9.47
+Bexley,Health,8000,8000,10.82
+Bexley,"Arts, entertainment and recreation",1250,1250,1.69
+Bexley,Other services,1250,1500,2.03
+Brent,Primary & Utilities,1750,1250,1.06
+Brent,Manufacturing,7000,8000,6.79
+Brent,Construction,4500,7000,5.94
+Brent,Wholesale,10000,11000,9.34
+Brent,Retail,9000,13000,11.04
+Brent,Transportation and Storage,8000,8000,6.79
+Brent,Accomodation and food service activities,7000,9000,7.64
+Brent,Information and Communication,4500,3500,2.97
+Brent,Financial and insurance activities,1250,1500,1.27
+Brent,"Professional, Real Estate, Scientific and technical activities",7000,10000,8.49
+Brent,Administrative and support service activities,9000,9000,7.64
+Brent,Public Admin and defence,4500,3500,2.97
+Brent,Education,9000,10000,8.49
+Brent,Health,13000,18000,15.29
+Brent,"Arts, entertainment and recreation",2500,3000,2.55
+Brent,Other services,1500,2000,1.70
+Bromley,Primary & Utilities,700,1000,0.95
+Bromley,Manufacturing,3000,2000,1.90
+Bromley,Construction,5000,7000,6.67
+Bromley,Wholesale,3500,4000,3.81
+Bromley,Retail,13000,12000,11.43
+Bromley,Transportation and Storage,3000,3500,3.33
+Bromley,Accomodation and food service activities,5000,8000,7.62
+Bromley,Information and Communication,3500,3500,3.33
+Bromley,Financial and insurance activities,5000,5000,4.76
+Bromley,"Professional, Real Estate, Scientific and technical activities",9000,10000,9.52
+Bromley,Administrative and support service activities,9000,11000,10.48
+Bromley,Public Admin and defence,3000,3000,2.86
+Bromley,Education,10000,11000,10.48
+Bromley,Health,16000,17000,16.19
+Bromley,"Arts, entertainment and recreation",3500,4500,4.29
+Bromley,Other services,2500,2500,2.38
+Camden,Primary & Utilities,1750,2000,0.53
+Camden,Manufacturing,2500,3500,0.92
+Camden,Construction,5000,9000,2.37
+Camden,Wholesale,8000,11000,2.90
+Camden,Retail,17000,21000,5.53
+Camden,Transportation and Storage,9000,10000,2.64
+Camden,Accomodation and food service activities,25000,26000,6.85
+Camden,Information and Communication,29000,48000,12.65
+Camden,Financial and insurance activities,8000,13000,3.43
+Camden,"Professional, Real Estate, Scientific and technical activities",67000,85000,22.40
+Camden,Administrative and support service activities,35000,28000,7.38
+Camden,Public Admin and defence,12000,12000,3.16
+Camden,Education,27000,36000,9.49
+Camden,Health,33000,51000,13.44
+Camden,"Arts, entertainment and recreation",8000,13000,3.43
+Camden,Other services,10000,11000,2.90
+City of London,Primary & Utilities,350,5000,0.88
+City of London,Manufacturing,1000,2250,0.40
+City of London,Construction,4000,7000,1.24
+City of London,Wholesale,4500,7000,1.24
+City of London,Retail,6000,7000,1.24
+City of London,Transportation and Storage,3500,6000,1.06
+City of London,Accomodation and food service activities,16000,17000,3.00
+City of London,Information and Communication,25000,66000,11.67
+City of London,Financial and insurance activities,153000,209000,36.94
+City of London,"Professional, Real Estate, Scientific and technical activities",101000,145000,25.63
+City of London,Administrative and support service activities,40000,63000,11.14
+City of London,Public Admin and defence,4000,2500,0.44
+City of London,Education,3500,6000,1.06
+City of London,Health,3500,12000,2.12
+City of London,"Arts, entertainment and recreation",2500,4000,0.71
+City of London,Other services,6000,7000,1.24
+Croydon,Primary & Utilities,800,1250,1.03
+Croydon,Manufacturing,3000,2000,1.65
+Croydon,Construction,5000,7000,5.77
+Croydon,Wholesale,6000,6000,4.95
+Croydon,Retail,14000,16000,13.20
+Croydon,Transportation and Storage,5000,5000,4.12
+Croydon,Accomodation and food service activities,6000,7000,5.77
+Croydon,Information and Communication,4500,4500,3.71
+Croydon,Financial and insurance activities,6000,4500,3.71
+Croydon,"Professional, Real Estate, Scientific and technical activities",11000,13000,10.72
+Croydon,Administrative and support service activities,10000,9000,7.42
+Croydon,Public Admin and defence,11000,12000,9.90
+Croydon,Education,12000,11000,9.07
+Croydon,Health,14000,17000,14.02
+Croydon,"Arts, entertainment and recreation",2250,2500,2.06
+Croydon,Other services,3500,3500,2.89
+Ealing,Primary & Utilities,800,1000,0.79
+Ealing,Manufacturing,11000,11000,8.64
+Ealing,Construction,5000,7000,5.50
+Ealing,Wholesale,10000,10000,7.86
+Ealing,Retail,12000,14000,11.00
+Ealing,Transportation and Storage,9000,11000,8.64
+Ealing,Accomodation and food service activities,11000,8000,6.29
+Ealing,Information and Communication,6000,6000,4.72
+Ealing,Financial and insurance activities,1250,1250,0.98
+Ealing,"Professional, Real Estate, Scientific and technical activities",10000,12000,9.43
+Ealing,Administrative and support service activities,12000,13000,10.22
+Ealing,Public Admin and defence,6000,4000,3.14
+Ealing,Education,10000,10000,7.86
+Ealing,Health,11000,13000,10.22
+Ealing,"Arts, entertainment and recreation",2000,3000,2.36
+Ealing,Other services,2250,3000,2.36
+Enfield,Primary & Utilities,900,1000,0.93
+Enfield,Manufacturing,4500,4500,4.18
+Enfield,Construction,5000,8000,7.42
+Enfield,Wholesale,7000,9000,8.35
+Enfield,Retail,11000,13000,12.06
+Enfield,Transportation and Storage,6000,8000,7.42
+Enfield,Accomodation and food service activities,5000,7000,6.50
+Enfield,Information and Communication,2500,3000,2.78
+Enfield,Financial and insurance activities,1750,1500,1.39
+Enfield,"Professional, Real Estate, Scientific and technical activities",6000,7000,6.50
+Enfield,Administrative and support service activities,12000,10000,9.28
+Enfield,Public Admin and defence,4000,4000,3.71
+Enfield,Education,10000,10000,9.28
+Enfield,Health,15000,17000,15.78
+Enfield,"Arts, entertainment and recreation",1500,2250,2.09
+Enfield,Other services,1750,2500,2.32
+Greenwich,Primary & Utilities,600,1500,1.74
+Greenwich,Manufacturing,2250,2500,2.90
+Greenwich,Construction,2500,4500,5.22
+Greenwich,Wholesale,2500,2500,2.90
+Greenwich,Retail,7000,9000,10.43
+Greenwich,Transportation and Storage,4000,6000,6.96
+Greenwich,Accomodation and food service activities,5000,8000,9.28
+Greenwich,Information and Communication,3000,3000,3.48
+Greenwich,Financial and insurance activities,700,500,0.58
+Greenwich,"Professional, Real Estate, Scientific and technical activities",3500,5000,5.80
+Greenwich,Administrative and support service activities,6000,7000,8.12
+Greenwich,Public Admin and defence,6000,5000,5.80
+Greenwich,Education,10000,11000,12.75
+Greenwich,Health,11000,15000,17.39
+Greenwich,"Arts, entertainment and recreation",3000,3500,4.06
+Greenwich,Other services,1250,2250,2.61
+Hackney,Primary & Utilities,300,700,0.49
+Hackney,Manufacturing,2000,2500,1.76
+Hackney,Construction,2000,4000,2.81
+Hackney,Wholesale,2250,3500,2.46
+Hackney,Retail,5000,12000,8.44
+Hackney,Transportation and Storage,5000,4000,2.81
+Hackney,Accomodation and food service activities,5000,11000,7.74
+Hackney,Information and Communication,7000,18000,12.66
+Hackney,Financial and insurance activities,4500,6000,4.22
+Hackney,"Professional, Real Estate, Scientific and technical activities",14000,32000,22.50
+Hackney,Administrative and support service activities,11000,8000,5.63
+Hackney,Public Admin and defence,5000,6000,4.22
+Hackney,Education,8000,12000,8.44
+Hackney,Health,13000,15000,10.55
+Hackney,"Arts, entertainment and recreation",2500,4500,3.16
+Hackney,Other services,2500,3000,2.11
+Hammersmith and Fulham,Primary & Utilities,400,500,0.35
+Hammersmith and Fulham,Manufacturing,1500,2000,1.41
+Hammersmith and Fulham,Construction,2000,2500,1.76
+Hammersmith and Fulham,Wholesale,7000,12000,8.47
+Hammersmith and Fulham,Retail,15000,15000,10.58
+Hammersmith and Fulham,Transportation and Storage,3000,3000,2.12
+Hammersmith and Fulham,Accomodation and food service activities,9000,11000,7.76
+Hammersmith and Fulham,Information and Communication,22000,20000,14.11
+Hammersmith and Fulham,Financial and insurance activities,1500,2250,1.59
+Hammersmith and Fulham,"Professional, Real Estate, Scientific and technical activities",17000,21000,14.81
+Hammersmith and Fulham,Administrative and support service activities,12000,13000,9.17
+Hammersmith and Fulham,Public Admin and defence,5000,6000,4.23
+Hammersmith and Fulham,Education,6000,7000,4.94
+Hammersmith and Fulham,Health,13000,18000,12.70
+Hammersmith and Fulham,"Arts, entertainment and recreation",6000,6000,4.23
+Hammersmith and Fulham,Other services,2000,2500,1.76
+Haringey,Primary & Utilities,100,400,0.55
+Haringey,Manufacturing,3000,3000,4.16
+Haringey,Construction,2250,3500,4.85
+Haringey,Wholesale,3500,4500,6.24
+Haringey,Retail,9000,10000,13.87
+Haringey,Transportation and Storage,4000,4500,6.24
+Haringey,Accomodation and food service activities,3000,7000,9.71
+Haringey,Information and Communication,2250,2500,3.47
+Haringey,Financial and insurance activities,700,700,0.97
+Haringey,"Professional, Real Estate, Scientific and technical activities",4500,8000,11.10
+Haringey,Administrative and support service activities,6000,4000,5.55
+Haringey,Public Admin and defence,3500,3500,4.85
+Haringey,Education,8000,7000,9.71
+Haringey,Health,6000,9000,12.48
+Haringey,"Arts, entertainment and recreation",3000,2500,3.47
+Haringey,Other services,2000,2000,2.77
+Harrow,Primary & Utilities,800,500,0.70
+Harrow,Manufacturing,2500,1750,2.46
+Harrow,Construction,2500,6000,8.45
+Harrow,Wholesale,3000,3500,4.93
+Harrow,Retail,8000,7000,9.86
+Harrow,Transportation and Storage,1750,2250,3.17
+Harrow,Accomodation and food service activities,3500,5000,7.04
+Harrow,Information and Communication,4000,4000,5.63
+Harrow,Financial and insurance activities,1750,1250,1.76
+Harrow,"Professional, Real Estate, Scientific and technical activities",7000,11000,15.49
+Harrow,Administrative and support service activities,5000,5000,7.04
+Harrow,Public Admin and defence,2250,2250,3.17
+Harrow,Education,8000,8000,11.27
+Harrow,Health,10000,10000,14.08
+Harrow,"Arts, entertainment and recreation",2250,1750,2.46
+Harrow,Other services,1250,1750,2.46
+Havering,Primary & Utilities,1250,800,0.93
+Havering,Manufacturing,3500,2500,2.90
+Havering,Construction,5000,8000,9.27
+Havering,Wholesale,4500,5000,5.79
+Havering,Retail,10000,9000,10.43
+Havering,Transportation and Storage,4000,6000,6.95
+Havering,Accomodation and food service activities,4000,5000,5.79
+Havering,Information and Communication,1500,1750,2.03
+Havering,Financial and insurance activities,2250,1750,2.03
+Havering,"Professional, Real Estate, Scientific and technical activities",3500,5000,5.79
+Havering,Administrative and support service activities,8000,10000,11.59
+Havering,Public Admin and defence,2000,3000,3.48
+Havering,Education,7000,7000,8.11
+Havering,Health,12000,18000,20.86
+Havering,"Arts, entertainment and recreation",2250,2000,2.32
+Havering,Other services,1500,1500,1.74
+Hillingdon,Primary & Utilities,1250,1250,0.70
+Hillingdon,Manufacturing,8000,7000,3.92
+Hillingdon,Construction,5000,7000,3.92
+Hillingdon,Wholesale,11000,11000,6.15
+Hillingdon,Retail,12000,14000,7.83
+Hillingdon,Transportation and Storage,54000,31000,17.34
+Hillingdon,Accomodation and food service activities,13000,16000,8.95
+Hillingdon,Information and Communication,6000,7000,3.92
+Hillingdon,Financial and insurance activities,2000,2500,1.40
+Hillingdon,"Professional, Real Estate, Scientific and technical activities",17000,15000,8.39
+Hillingdon,Administrative and support service activities,20000,27000,15.10
+Hillingdon,Public Admin and defence,8000,7000,3.92
+Hillingdon,Education,10000,13000,7.27
+Hillingdon,Health,12000,16000,8.95
+Hillingdon,"Arts, entertainment and recreation",2250,1750,0.98
+Hillingdon,Other services,2500,2250,1.26
+Hounslow,Primary & Utilities,800,1250,0.81
+Hounslow,Manufacturing,4000,3000,1.93
+Hounslow,Construction,4500,4500,2.90
+Hounslow,Wholesale,11000,11000,7.09
+Hounslow,Retail,9000,11000,7.09
+Hounslow,Transportation and Storage,15000,40000,25.76
+Hounslow,Accomodation and food service activities,6000,9000,5.80
+Hounslow,Information and Communication,16000,20000,12.88
+Hounslow,Financial and insurance activities,2000,2000,1.29
+Hounslow,"Professional, Real Estate, Scientific and technical activities",13000,13000,8.37
+Hounslow,Administrative and support service activities,17000,12000,7.73
+Hounslow,Public Admin and defence,4500,3500,2.25
+Hounslow,Education,7000,9000,5.80
+Hounslow,Health,11000,11000,7.09
+Hounslow,"Arts, entertainment and recreation",3500,3000,1.93
+Hounslow,Other services,2250,2000,1.29
+Islington,Primary & Utilities,1000,700,0.29
+Islington,Manufacturing,2500,2250,0.93
+Islington,Construction,4000,5000,2.08
+Islington,Wholesale,4000,5000,2.08
+Islington,Retail,8000,15000,6.23
+Islington,Transportation and Storage,6000,7000,2.91
+Islington,Accomodation and food service activities,11000,15000,6.23
+Islington,Information and Communication,30000,37000,15.36
+Islington,Financial and insurance activities,18000,13000,5.40
+Islington,"Professional, Real Estate, Scientific and technical activities",35000,60000,24.90
+Islington,Administrative and support service activities,16000,33000,13.70
+Islington,Public Admin and defence,7000,5000,2.08
+Islington,Education,11000,11000,4.57
+Islington,Health,18000,20000,8.30
+Islington,"Arts, entertainment and recreation",4000,6000,2.49
+Islington,Other services,4500,6000,2.49
+Kensington and Chelsea,Primary & Utilities,700,800,0.58
+Kensington and Chelsea,Manufacturing,700,1250,0.91
+Kensington and Chelsea,Construction,1750,2250,1.64
+Kensington and Chelsea,Wholesale,3000,3000,2.19
+Kensington and Chelsea,Retail,21000,21000,15.35
+Kensington and Chelsea,Transportation and Storage,3000,2000,1.46
+Kensington and Chelsea,Accomodation and food service activities,18000,17000,12.43
+Kensington and Chelsea,Information and Communication,8000,18000,13.16
+Kensington and Chelsea,Financial and insurance activities,2500,3500,2.56
+Kensington and Chelsea,"Professional, Real Estate, Scientific and technical activities",16000,17000,12.43
+Kensington and Chelsea,Administrative and support service activities,9000,8000,5.85
+Kensington and Chelsea,Public Admin and defence,3000,3000,2.19
+Kensington and Chelsea,Education,6000,7000,5.12
+Kensington and Chelsea,Health,14000,23000,16.81
+Kensington and Chelsea,"Arts, entertainment and recreation",4500,6000,4.39
+Kensington and Chelsea,Other services,3500,4000,2.92
+Kingston upon Thames,Primary & Utilities,125,175,0.25
+Kingston upon Thames,Manufacturing,1750,2250,3.19
+Kingston upon Thames,Construction,1750,3000,4.26
+Kingston upon Thames,Wholesale,4500,3500,4.97
+Kingston upon Thames,Retail,10000,9000,12.78
+Kingston upon Thames,Transportation and Storage,1250,1750,2.48
+Kingston upon Thames,Accomodation and food service activities,4500,5000,7.10
+Kingston upon Thames,Information and Communication,4000,3500,4.97
+Kingston upon Thames,Financial and insurance activities,1750,1000,1.42
+Kingston upon Thames,"Professional, Real Estate, Scientific and technical activities",7000,6000,8.52
+Kingston upon Thames,Administrative and support service activities,7000,5000,7.10
+Kingston upon Thames,Public Admin and defence,3500,4000,5.68
+Kingston upon Thames,Education,9000,9000,12.78
+Kingston upon Thames,Health,9000,13000,18.46
+Kingston upon Thames,"Arts, entertainment and recreation",3500,2500,3.55
+Kingston upon Thames,Other services,2250,1750,2.48
+Lambeth,Primary & Utilities,2500,1750,1.18
+Lambeth,Manufacturing,1500,1500,1.01
+Lambeth,Construction,3500,5000,3.38
+Lambeth,Wholesale,2500,3000,2.03
+Lambeth,Retail,7000,10000,6.76
+Lambeth,Transportation and Storage,5000,5000,3.38
+Lambeth,Accomodation and food service activities,11000,14000,9.46
+Lambeth,Information and Communication,11000,11000,7.43
+Lambeth,Financial and insurance activities,800,1750,1.18
+Lambeth,"Professional, Real Estate, Scientific and technical activities",11000,15000,10.14
+Lambeth,Administrative and support service activities,19000,13000,8.78
+Lambeth,Public Admin and defence,8000,10000,6.76
+Lambeth,Education,9000,9000,6.08
+Lambeth,Health,27000,38000,25.68
+Lambeth,"Arts, entertainment and recreation",4000,6000,4.05
+Lambeth,Other services,4000,4000,2.70
+Lewisham,Primary & Utilities,250,200,0.30
+Lewisham,Manufacturing,1250,1250,1.87
+Lewisham,Construction,3000,3000,4.50
+Lewisham,Wholesale,2000,2000,3.00
+Lewisham,Retail,7000,8000,11.99
+Lewisham,Transportation and Storage,2250,3000,4.50
+Lewisham,Accomodation and food service activities,3000,6000,9.00
+Lewisham,Information and Communication,1750,1750,2.62
+Lewisham,Financial and insurance activities,900,500,0.75
+Lewisham,"Professional, Real Estate, Scientific and technical activities",3500,6000,9.00
+Lewisham,Administrative and support service activities,7000,6000,9.00
+Lewisham,Public Admin and defence,4500,2000,3.00
+Lewisham,Education,9000,10000,14.99
+Lewisham,Health,11000,13000,19.49
+Lewisham,"Arts, entertainment and recreation",1750,2250,3.37
+Lewisham,Other services,1250,1750,2.62
+Merton,Primary & Utilities,700,450,0.56
+Merton,Manufacturing,3000,2250,2.81
+Merton,Construction,3500,4500,5.63
+Merton,Wholesale,4500,5000,6.25
+Merton,Retail,9000,9000,11.26
+Merton,Transportation and Storage,3500,5000,6.25
+Merton,Accomodation and food service activities,3500,7000,8.76
+Merton,Information and Communication,3500,4000,5.00
+Merton,Financial and insurance activities,1500,2000,2.50
+Merton,"Professional, Real Estate, Scientific and technical activities",7000,10000,12.51
+Merton,Administrative and support service activities,9000,9000,11.26
+Merton,Public Admin and defence,2000,2000,2.50
+Merton,Education,6000,7000,8.76
+Merton,Health,7000,8000,10.01
+Merton,"Arts, entertainment and recreation",2250,2250,2.81
+Merton,Other services,3000,2500,3.13
+Newham,Primary & Utilities,1500,1750,1.40
+Newham,Manufacturing,3000,4500,3.59
+Newham,Construction,4000,8000,6.39
+Newham,Wholesale,3000,3500,2.79
+Newham,Retail,9000,17000,13.57
+Newham,Transportation and Storage,4500,8000,6.39
+Newham,Accomodation and food service activities,4500,10000,7.98
+Newham,Information and Communication,1750,2500,2.00
+Newham,Financial and insurance activities,1000,1250,1.00
+Newham,"Professional, Real Estate, Scientific and technical activities",4500,11000,8.78
+Newham,Administrative and support service activities,7000,13000,10.38
+Newham,Public Admin and defence,6000,15000,11.98
+Newham,Education,10000,13000,10.38
+Newham,Health,9000,11000,8.78
+Newham,"Arts, entertainment and recreation",2500,2250,1.80
+Newham,Other services,2250,3500,2.79
+Redbridge,Primary & Utilities,200,450,0.55
+Redbridge,Manufacturing,2000,1250,1.53
+Redbridge,Construction,2500,6000,7.37
+Redbridge,Wholesale,3000,3500,4.30
+Redbridge,Retail,8000,9000,11.05
+Redbridge,Transportation and Storage,3000,3000,3.68
+Redbridge,Accomodation and food service activities,3500,5000,6.14
+Redbridge,Information and Communication,3000,3000,3.68
+Redbridge,Financial and insurance activities,1250,1250,1.53
+Redbridge,"Professional, Real Estate, Scientific and technical activities",4500,8000,9.82
+Redbridge,Administrative and support service activities,7000,9000,11.05
+Redbridge,Public Admin and defence,5000,5000,6.14
+Redbridge,Education,9000,9000,11.05
+Redbridge,Health,11000,14000,17.19
+Redbridge,"Arts, entertainment and recreation",1500,2000,2.46
+Redbridge,Other services,1750,2000,2.46
+Richmond upon Thames,Primary & Utilities,500,350,0.45
+Richmond upon Thames,Manufacturing,1500,1000,1.28
+Richmond upon Thames,Construction,2500,2500,3.19
+Richmond upon Thames,Wholesale,2500,3000,3.83
+Richmond upon Thames,Retail,7000,7000,8.93
+Richmond upon Thames,Transportation and Storage,1750,2000,2.55
+Richmond upon Thames,Accomodation and food service activities,6000,7000,8.93
+Richmond upon Thames,Information and Communication,6000,6000,7.66
+Richmond upon Thames,Financial and insurance activities,1500,1500,1.91
+Richmond upon Thames,"Professional, Real Estate, Scientific and technical activities",13000,14000,17.87
+Richmond upon Thames,Administrative and support service activities,7000,6000,7.66
+Richmond upon Thames,Public Admin and defence,2000,1750,2.23
+Richmond upon Thames,Education,8000,9000,11.49
+Richmond upon Thames,Health,7000,9000,11.49
+Richmond upon Thames,"Arts, entertainment and recreation",4500,6000,7.66
+Richmond upon Thames,Other services,2000,2250,2.87
+Southwark,Primary & Utilities,1250,1750,0.71
+Southwark,Manufacturing,2000,2500,1.01
+Southwark,Construction,6000,4000,1.62
+Southwark,Wholesale,4500,4500,1.82
+Southwark,Retail,9000,13000,5.27
+Southwark,Transportation and Storage,7000,12000,4.86
+Southwark,Accomodation and food service activities,10000,16000,6.48
+Southwark,Information and Communication,16000,24000,9.73
+Southwark,Financial and insurance activities,9000,7000,2.84
+Southwark,"Professional, Real Estate, Scientific and technical activities",38000,61000,24.72
+Southwark,Administrative and support service activities,25000,28000,11.35
+Southwark,Public Admin and defence,13000,17000,6.89
+Southwark,Education,15000,17000,6.89
+Southwark,Health,21000,26000,10.54
+Southwark,"Arts, entertainment and recreation",3500,6000,2.43
+Southwark,Other services,7000,7000,2.84
+Sutton,Primary & Utilities,350,350,0.43
+Sutton,Manufacturing,1750,1500,1.84
+Sutton,Construction,4000,6000,7.35
+Sutton,Wholesale,3000,3000,3.68
+Sutton,Retail,7000,7000,8.58
+Sutton,Transportation and Storage,4000,4500,5.51
+Sutton,Accomodation and food service activities,2250,5000,6.13
+Sutton,Information and Communication,3000,2250,2.76
+Sutton,Financial and insurance activities,1000,1250,1.53
+Sutton,"Professional, Real Estate, Scientific and technical activities",5000,7000,8.58
+Sutton,Administrative and support service activities,14000,19000,23.28
+Sutton,Public Admin and defence,2500,1750,2.14
+Sutton,Education,6000,7000,8.58
+Sutton,Health,11000,13000,15.93
+Sutton,"Arts, entertainment and recreation",1000,1500,1.84
+Sutton,Other services,1250,1500,1.84
+Tower Hamlets,Primary & Utilities,700,1000,0.35
+Tower Hamlets,Manufacturing,3000,2500,0.87
+Tower Hamlets,Construction,6000,5000,1.73
+Tower Hamlets,Wholesale,5000,6000,2.08
+Tower Hamlets,Retail,8000,13000,4.50
+Tower Hamlets,Transportation and Storage,4500,6000,2.08
+Tower Hamlets,Accomodation and food service activities,11000,15000,5.19
+Tower Hamlets,Information and Communication,22000,28000,9.69
+Tower Hamlets,Financial and insurance activities,74000,69000,23.88
+Tower Hamlets,"Professional, Real Estate, Scientific and technical activities",27000,54000,18.69
+Tower Hamlets,Administrative and support service activities,28000,28000,9.69
+Tower Hamlets,Public Admin and defence,8000,13000,4.50
+Tower Hamlets,Education,14000,17000,5.88
+Tower Hamlets,Health,16000,23000,7.96
+Tower Hamlets,"Arts, entertainment and recreation",4500,4000,1.38
+Tower Hamlets,Other services,2500,4500,1.56
+Waltham Forest,Primary & Utilities,500,900,1.26
+Waltham Forest,Manufacturing,3000,2500,3.50
+Waltham Forest,Construction,2250,4500,6.31
+Waltham Forest,Wholesale,4000,4500,6.31
+Waltham Forest,Retail,7000,9000,12.61
+Waltham Forest,Transportation and Storage,3000,3500,4.91
+Waltham Forest,Accomodation and food service activities,2500,4500,6.31
+Waltham Forest,Information and Communication,1500,1750,2.45
+Waltham Forest,Financial and insurance activities,800,700,0.98
+Waltham Forest,"Professional, Real Estate, Scientific and technical activities",3000,5000,7.01
+Waltham Forest,Administrative and support service activities,7000,9000,12.61
+Waltham Forest,Public Admin and defence,2500,3000,4.20
+Waltham Forest,Education,7000,9000,12.61
+Waltham Forest,Health,10000,10000,14.02
+Waltham Forest,"Arts, entertainment and recreation",1500,1750,2.45
+Waltham Forest,Other services,1750,1750,2.45
+Wandsworth,Primary & Utilities,700,600,0.50
+Wandsworth,Manufacturing,2000,1750,1.45
+Wandsworth,Construction,4000,4500,3.73
+Wandsworth,Wholesale,5000,6000,4.98
+Wandsworth,Retail,11000,12000,9.95
+Wandsworth,Transportation and Storage,5000,4000,3.32
+Wandsworth,Accomodation and food service activities,8000,11000,9.12
+Wandsworth,Information and Communication,6000,5000,4.15
+Wandsworth,Financial and insurance activities,1500,1250,1.04
+Wandsworth,"Professional, Real Estate, Scientific and technical activities",12000,15000,12.44
+Wandsworth,Administrative and support service activities,8000,9000,7.46
+Wandsworth,Public Admin and defence,5000,4500,3.73
+Wandsworth,Education,10000,12000,9.95
+Wandsworth,Health,19000,27000,22.39
+Wandsworth,"Arts, entertainment and recreation",3500,4000,3.32
+Wandsworth,Other services,3000,3000,2.49
+Westminster,Primary & Utilities,2500,6000,0.81
+Westminster,Manufacturing,3500,13000,1.75
+Westminster,Construction,12000,14000,1.88
+Westminster,Wholesale,16000,18000,2.42
+Westminster,Retail,59000,52000,6.99
+Westminster,Transportation and Storage,15000,11000,1.48
+Westminster,Accomodation and food service activities,75000,75000,10.08
+Westminster,Information and Communication,59000,71000,9.54
+Westminster,Financial and insurance activities,41000,60000,8.06
+Westminster,"Professional, Real Estate, Scientific and technical activities",129000,160000,21.51
+Westminster,Administrative and support service activities,58000,61000,8.20
+Westminster,Public Admin and defence,53000,84000,11.29
+Westminster,Education,26000,31000,4.17
+Westminster,Health,27000,41000,5.51
+Westminster,"Arts, entertainment and recreation",21000,25000,3.36
+Westminster,Other services,25000,22000,2.96
